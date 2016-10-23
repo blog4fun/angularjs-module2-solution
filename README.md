@@ -1,0 +1,1 @@
+Solution of the week #2 assignment of the AngularJS course at Coursera.
